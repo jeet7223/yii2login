@@ -28,21 +28,21 @@ return [
             ],
             'instagram' => [
                 'class' => 'kotchuprik\authclient\Instagram',
-                'clientId' => '1012867712532188',
-                'clientSecret' => 'a2b5c5d8f48dcde5e327ead92d91afc4',
+                'clientId' => '',
+                'clientSecret' => '',
             ],
             'linkedin' => [
                 'class' => 'yii\authclient\clients\LinkedIn',
-                'clientId' => '746435729281-63l9g8ssptkkqn86dghj47aeeuk1jdq8.apps.googleusercontent.com',
-                'clientSecret' => 'khjYMQuwMW0gEfSig_WUlC1_',
+                'clientId' => '',
+                'clientSecret' => '',
             ],
            'twitter' => [
                 'class' => 'yii\authclient\clients\Twitter',
                 'attributeParams' => [
                     'include_email' => 'true'
                 ],
-                'consumerKey' => '2YS8MoWaGfdI3TWESHlMZihVT',
-                'consumerSecret' => '0LK3zFwAEpGg6xFmFYvh41zQC7qQxCxwkpchhDkxQbnilVA1K4',
+                'consumerKey' => '',
+                'consumerSecret' => '',
             ],
         ],
     ],
